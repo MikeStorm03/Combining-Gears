@@ -1,0 +1,16 @@
+{
+    "type": "smithing_transform",
+    "base": {
+        "item": "minecraft:copper_chestplate"
+    },
+    "addition": {
+        "item": "minecraft:phantom_membrane"
+    },
+    "result": {
+        "id": "combining_gears:elytra_copper",
+        "count": 1
+    },
+    "template": {
+        "item": "minecraft:elytra"
+    }
+}

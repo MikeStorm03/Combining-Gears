@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "combining_gears:leather_copper",
+        "combining_gears:leather_chainmail",
+        "combining_gears:leather_iron",
+        "combining_gears:leather_gold",
+        "combining_gears:leather_diamond",
+        "combining_gears:leather_netherite"
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "parent": "minecraft:item/generated",
+    "overrides": [
+        {
+            "model": "combining_gears:item/elytra_chainmail/quartz_trim",
+            "predicate": {
+                "trim_type": 0.1
+            }
+        },
+        {
+            "model": "combining_gears:item/elytra_chainmail/iron_trim",
+            "predicate": {
+                "trim_type": 0.2
+            }
+        },
+        {
+            "model": "combining_gears:item/elytra_chainmail/netherite_trim",
+            "predicate": {
+                "trim_type": 0.3
+            }
+        },
+        {
+            "model": "combining_gears:item/elytra_chainmail/redstone_trim",
+            "predicate": {
+                "trim_type": 0.4
+            }
+        },
+        {
+            "model": "combining_gears:item/elytra_chainmail/copper_trim",
+            "predicate": {
+                "trim_type": 0.5
+            }
+        },
+        {
+            "model": "combining_gears:item/elytra_chainmail/gold_trim",
+            "predicate": {
+                "trim_type": 0.6
+            }
+        },
+        {
+            "model": "combining_gears:item/elytra_chainmail/emerald_trim",
+            "predicate": {
+                "trim_type": 0.7
+            }
+        },
+        {
+            "model": "combining_gears:item/elytra_chainmail/diamond_trim",
+            "predicate": {
+                "trim_type": 0.8
+            }
+        },
+        {
+            "model": "combining_gears:item/elytra_chainmail/lapis_trim",
+            "predicate": {
+                "trim_type": 0.9
+            }
+        },
+        {
+            "model": "combining_gears:item/elytra_chainmail/amethyst_trim",
+            "predicate": {
+                "trim_type": 1.0
+            }
+        },
+        {
+            "model": "combining_gears:item/elytra_chainmail/resin_trim",
+            "predicate": {
+                "trim_type": 1.1
+            }
+        }
+    ],
+    "textures": {
+        "layer0": "combining_gears:item/chainmail_chestplate",
+        "layer1": "combining_gears:item/elytra"
+    }
+}

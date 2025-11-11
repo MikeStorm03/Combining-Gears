@@ -1,0 +1,69 @@
+{
+    "parent": "minecraft:item/generated",
+    "overrides": [
+        {
+            "model": "combining_gears:item/leather_netherite/quartz_trim",
+            "predicate": {
+                "trim_type": 0.1
+            }
+        },
+        {
+            "model": "combining_gears:item/leather_netherite/iron_trim",
+            "predicate": {
+                "trim_type": 0.2
+            }
+        },
+        {
+            "model": "combining_gears:item/leather_netherite/netherite_trim",
+            "predicate": {
+                "trim_type": 0.3
+            }
+        },
+        {
+            "model": "combining_gears:item/leather_netherite/redstone_trim",
+            "predicate": {
+                "trim_type": 0.4
+            }
+        },
+        {
+            "model": "combining_gears:item/leather_netherite/copper_trim",
+            "predicate": {
+                "trim_type": 0.5
+            }
+        },
+        {
+            "model": "combining_gears:item/leather_netherite/gold_trim",
+            "predicate": {
+                "trim_type": 0.6
+            }
+        },
+        {
+            "model": "combining_gears:item/leather_netherite/emerald_trim",
+            "predicate": {
+                "trim_type": 0.7
+            }
+        },
+        {
+            "model": "combining_gears:item/leather_netherite/diamond_trim",
+            "predicate": {
+                "trim_type": 0.8
+            }
+        },
+        {
+            "model": "combining_gears:item/leather_netherite/lapis_trim",
+            "predicate": {
+                "trim_type": 0.9
+            }
+        },
+        {
+            "model": "combining_gears:item/leather_netherite/amethyst_trim",
+            "predicate": {
+                "trim_type": 1.0
+            }
+        }
+    ],
+    "textures": {
+        "layer0": "combining_gears:item/leather_boots",
+        "layer1": "combining_gears:item/netherite_boots"
+    }
+}

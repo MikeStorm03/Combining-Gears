@@ -1,0 +1,75 @@
+{
+    "parent": "minecraft:item/generated",
+    "overrides": [
+        {
+            "model": "combining_gears:item/elytra_gold/quartz_trim",
+            "predicate": {
+                "trim_type": 0.1
+            }
+        },
+        {
+            "model": "combining_gears:item/elytra_gold/iron_trim",
+            "predicate": {
+                "trim_type": 0.2
+            }
+        },
+        {
+            "model": "combining_gears:item/elytra_gold/netherite_trim",
+            "predicate": {
+                "trim_type": 0.3
+            }
+        },
+        {
+            "model": "combining_gears:item/elytra_gold/redstone_trim",
+            "predicate": {
+                "trim_type": 0.4
+            }
+        },
+        {
+            "model": "combining_gears:item/elytra_gold/copper_trim",
+            "predicate": {
+                "trim_type": 0.5
+            }
+        },
+        {
+            "model": "combining_gears:item/elytra_gold/gold_trim",
+            "predicate": {
+                "trim_type": 0.6
+            }
+        },
+        {
+            "model": "combining_gears:item/elytra_gold/emerald_trim",
+            "predicate": {
+                "trim_type": 0.7
+            }
+        },
+        {
+            "model": "combining_gears:item/elytra_gold/diamond_trim",
+            "predicate": {
+                "trim_type": 0.8
+            }
+        },
+        {
+            "model": "combining_gears:item/elytra_gold/lapis_trim",
+            "predicate": {
+                "trim_type": 0.9
+            }
+        },
+        {
+            "model": "combining_gears:item/elytra_gold/amethyst_trim",
+            "predicate": {
+                "trim_type": 1.0
+            }
+        },
+        {
+            "model": "combining_gears:item/elytra_gold/resin_trim",
+            "predicate": {
+                "trim_type": 1.1
+            }
+        }
+    ],
+    "textures": {
+        "layer0": "combining_gears:item/golden_chestplate",
+        "layer1": "combining_gears:item/elytra"
+    }
+}

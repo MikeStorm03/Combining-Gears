@@ -1,0 +1,12 @@
+{
+    "replace": false,
+    "values": [
+        "combining_gears:turtle_leather",
+        "combining_gears:turtle_copper",
+        "combining_gears:turtle_chainmail",
+        "combining_gears:turtle_iron",
+        "combining_gears:turtle_gold",
+        "combining_gears:turtle_diamond",
+        "combining_gears:turtle_netherite"
+    ]
+}

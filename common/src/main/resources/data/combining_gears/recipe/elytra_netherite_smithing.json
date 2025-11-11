@@ -1,0 +1,16 @@
+{
+    "type": "smithing_transform",
+    "base": {
+        "item": "combining_gears:elytra_diamond"
+    },
+    "addition": {
+        "item": "minecraft:netherite_ingot"
+    },
+    "result": {
+        "id": "combining_gears:elytra_netherite",
+        "count": 1
+    },
+    "template": {
+        "item": "minecraft:netherite_upgrade_smithing_template"
+    }
+}
