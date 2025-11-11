@@ -7,7 +7,10 @@
     "authors": [
         "${mod_author}"
     ],
-    "contact": {},
+    "contact": {
+        "homepage": "https://modrinth.com/project/combining-gears-mod",
+        "sources": "https://github.com/MikeStorm03/Combining-Gears"
+    },
     "license": "${license}",
     "icon": "${mod_id}.png",
     "environment": "*",

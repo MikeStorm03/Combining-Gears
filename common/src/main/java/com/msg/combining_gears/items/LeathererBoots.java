@@ -36,7 +36,7 @@ public class LeathererBoots extends ArmorItem {
                                             properties);
     }
 
-    public static boolean canWalkOnPowderedSnow(ItemStack stack, LivingEntity wearer) {
+    public boolean canWalkOnPowderedSnow(ItemStack stack, LivingEntity wearer) {
         return true;
     }
 }

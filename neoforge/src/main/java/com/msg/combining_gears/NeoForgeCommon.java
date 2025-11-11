@@ -11,7 +11,7 @@ public class NeoForgeCommon {
 
     public NeoForgeCommon(IEventBus eventBus) {
 
-        Common.init();
+        // Common.init();
         FoxRegister.registry(eventBus, FoxRegister.ITEMS, Gears.ITEMS);
         FoxRegister.registry(eventBus, FoxRegister.BACKPORT_GEARS, Gears.BACKPORT_GEARS);
         FoxRegister.SOUND_EVENTS.register(eventBus);

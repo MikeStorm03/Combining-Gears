@@ -5,6 +5,7 @@ plugins {
 
 dependencies {
     runtimeOnly "maven.modrinth:sodium:mc1.21.1-0.6.13-neoforge"
+    runtimeOnly "maven.modrinth:ferrite-core:7.0.2-neoforge"
 }
 
 neoForge {
